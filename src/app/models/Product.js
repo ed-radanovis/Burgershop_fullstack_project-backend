@@ -11,8 +11,8 @@ class Product extends Model {
         url: {
           type: Sequelize.VIRTUAL,
           get() {
-            // return `http://localhost:3010/product-file/${this.path}`
-            return `https://e-commerce-burgershop-api.onrender.com/product-file/${this.path}`
+            return `http://localhost:3010/product-file/${this.path}`
+            // return `https://api.render.com/deploy/srv-cec9rd4gqg4ap4bdqrk0?key=7U9cW84XofI/product-file/${this.path}`
             
           },
         },
