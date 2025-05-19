@@ -64,7 +64,7 @@ The project was fully completed and some of the resources used were:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
-        <img src="src/assets/github/Logo_EWD_APEX.png" width="130px;"height="130px;" alt="Imagem logo EWD APEX"/><br>
+        <img src="Logo_EWD_APEX.png" width="130px;"height="130px;" alt="Imagem logo EWD APEX"/><br>
       <sub>
         <b>Edmar Radanovis</b>
       </sub>
